@@ -1,2 +1,2 @@
-Systems for IoT-Edge-Cloud Research Group at UNC Charlotte  <br />
+AI and Computer Systems Research Lab  <br />
 https://webpages.charlotte.edu/aravindr/
